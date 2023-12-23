@@ -1,0 +1,16 @@
+# Python
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+
+# Virtual Environment
+.env
+
+# IDEs and Editors
+.vscode/
+
+# poetry
+poetry.lock
+dist/
+build/
